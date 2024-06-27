@@ -1,4 +1,4 @@
-# Stock Prediction using Graph Neural Networks (GNN): Benchmarking of relational graphs of SP500 companies
+# Stock Prediction using Graph Neural Networks (GNN): Benchmarking relational graphs of SP500 companies
 
 ---
 
