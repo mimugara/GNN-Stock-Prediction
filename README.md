@@ -41,8 +41,8 @@ After checking the *requirements.txt* file, the GNN can be executed through the 
 
 ## Citation
 
-This thesis has reconstructed an existing architecture of a heterogeneous graph neural network. If you use this architecture, please cite the following paper.
-The LICENSE of the project is GPL3, which means No matter how you modify or use code, you need to open source it.
+This thesis has reconstructed an existing architecture of a heterogeneous graph neural network. 
+The LICENSE of the project cited is GPL3, which means no matter how you modify or use code, you need to open source it.
 
 
 ```bibtex
