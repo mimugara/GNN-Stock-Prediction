@@ -3,6 +3,7 @@
 ---
 
 **Bachelor Final Thesis (UPC-FIB), Spring 2024**
+**Grade: 10/10**
 
 
 ---
